@@ -1,4 +1,6 @@
 ![image](https://github.com/SandySY/recode-vue-router/blob/main/f7e6abe683086747df5da947757e2c53.jpg)
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7d357cc69a484fabbcfb9078c38f37ef~tplv-k3u1fbpfcp-watermark.image)
+
 # recode-vue-router
 默写Vue-Router核心代码
 
