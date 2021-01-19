@@ -6,7 +6,7 @@
 -  Vue 高级API
 -  Vue 双向绑定原理，浅析MVVM
 -  Vue 源码概要
--  [Vue-Router 默写笔记](https://github.com/SandySY/vue-notes/recode-vue-router/)
+-  [Vue-Router 默写笔记](https://github.com/SandySY/vue-notes/tree/master/recode-vue-router/)
 -  VueX 状态管理
 
 ##  常用地址链接
