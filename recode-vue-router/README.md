@@ -4,7 +4,7 @@
 theme: vue-pro
 highlight:
 ---
-![image](https://github.com/SandySY/vue-notes/recode-vue-router/example0.jpg)
+![image](https://github.com/SandySY/vue-notes/static/images/example0.jpg)
 ## 默写 Vue-Router
 
 ### 写在前面
@@ -126,9 +126,9 @@ VueRouter 是作为插件的形式引入到 Vue 系统内部的。而将具体�
 
 > 就从业这些年的经验来讲，一般开发功能或者自己造轮子的时候，合格的开发者都有着自己的一套体系，像什么 Markdown 记录笔记啊，代码良好的 md 说明文件啊，还有些画图的使用 Xmind 或流程图 ProcessOn 之类的，都可以，不局限方法，但是得有该有的习惯，否则哪天老板让写个工具，写完给别人使用还得手把手传给别人，那可太痛苦了。
 
-> > 基本原理图：![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7388be780cf44e0abf9b9e5165fd96b2~tplv-k3u1fbpfcp-watermark.image)
+> > 基本原理图：![image](https://github.com/SandySY/vue-notes/static/images/example1.jpg)
 
-> > 完整实现思路图：![image](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3708d2f126714d65b5381cf04325d028~tplv-k3u1fbpfcp-watermark.image)
+> > 完整实现思路图：![image](https://github.com/SandySY/vue-notes/static/images/example2.jpg)
 
 ### 简单版代码默写（快写 hash，一个文件干完）
 

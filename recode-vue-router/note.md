@@ -4,7 +4,7 @@
 theme: vue-pro
 highlight:
 ---
-![image](https://github.com/SandySY/vue-notes/recode-vue-router/example0.jpg)
+![image](https://github.com/SandySY/vue-notes/static/images/example0.jpg)
 ## 默写 Vue-Router
 
 ### 写在前面
