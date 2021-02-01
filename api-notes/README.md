@@ -4,7 +4,7 @@
 theme: greenwillow
 highlight:
 ---
-
+![image](https://github.com/SandySY/vue-notes/static/images/logo.jpg)
 ![image](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6a39dcc1963742dda40858bdb133ac84~tplv-k3u1fbpfcp-watermark.image)
 
 # Vue 常用 API、高级 API
